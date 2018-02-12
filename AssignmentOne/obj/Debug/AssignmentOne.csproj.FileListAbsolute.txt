@@ -1,0 +1,7 @@
+C:\Users\em-Christos\source\repos\Prolifik\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe.config
+C:\Users\em-Christos\source\repos\Prolifik\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe
+C:\Users\em-Christos\source\repos\Prolifik\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.pdb
+C:\Users\em-Christos\source\repos\Prolifik\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\em-Christos\source\repos\Prolifik\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.exe
+C:\Users\em-Christos\source\repos\Prolifik\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.pdb
+C:\Users\em-Christos\source\repos\Prolifik\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csprojResolveAssemblyReference.cache
